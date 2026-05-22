@@ -1,0 +1,14 @@
+/home/capster/Templates/Week1Calculator/bin/Debug/net10.0/Week1Calculator
+/home/capster/Templates/Week1Calculator/bin/Debug/net10.0/Week1Calculator.deps.json
+/home/capster/Templates/Week1Calculator/bin/Debug/net10.0/Week1Calculator.runtimeconfig.json
+/home/capster/Templates/Week1Calculator/bin/Debug/net10.0/Week1Calculator.dll
+/home/capster/Templates/Week1Calculator/bin/Debug/net10.0/Week1Calculator.pdb
+/home/capster/Templates/Week1Calculator/obj/Debug/net10.0/Week1Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/capster/Templates/Week1Calculator/obj/Debug/net10.0/Week1Calculator.AssemblyInfoInputs.cache
+/home/capster/Templates/Week1Calculator/obj/Debug/net10.0/Week1Calculator.AssemblyInfo.cs
+/home/capster/Templates/Week1Calculator/obj/Debug/net10.0/Week1Calculator.csproj.CoreCompileInputs.cache
+/home/capster/Templates/Week1Calculator/obj/Debug/net10.0/Week1Calculator.dll
+/home/capster/Templates/Week1Calculator/obj/Debug/net10.0/refint/Week1Calculator.dll
+/home/capster/Templates/Week1Calculator/obj/Debug/net10.0/Week1Calculator.pdb
+/home/capster/Templates/Week1Calculator/obj/Debug/net10.0/Week1Calculator.genruntimeconfig.cache
+/home/capster/Templates/Week1Calculator/obj/Debug/net10.0/ref/Week1Calculator.dll
