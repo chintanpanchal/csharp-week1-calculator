@@ -12,3 +12,4 @@
 /home/capster/Templates/Week1Calculator/obj/Debug/net10.0/Week1Calculator.pdb
 /home/capster/Templates/Week1Calculator/obj/Debug/net10.0/Week1Calculator.genruntimeconfig.cache
 /home/capster/Templates/Week1Calculator/obj/Debug/net10.0/ref/Week1Calculator.dll
+/home/capster/Templates/Week1Calculator/obj/Debug/net10.0/Week1Calculator.sourcelink.json
