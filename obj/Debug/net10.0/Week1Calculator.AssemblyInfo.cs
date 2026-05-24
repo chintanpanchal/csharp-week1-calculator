@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Week1Calculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b90643e8425c70d143a2c1ff6ae1be6ca9e20099")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0078e5d062a840a4da2ce587b09ac5242848b496")]
 [assembly: System.Reflection.AssemblyProductAttribute("Week1Calculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Week1Calculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
