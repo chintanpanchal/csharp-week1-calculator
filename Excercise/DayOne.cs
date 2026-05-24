@@ -27,5 +27,12 @@ namespace Week1Calculator
             Console.WriteLine(100 / 4);
             Console.WriteLine("The result of 7 * 8 is: " + (7 * 8));
         }
+        public static void DummyData()
+        {
+            Console.WriteLine(85 / 10);   // prints 8
+            Console.WriteLine(92 / 10);   // prints 9
+            Console.WriteLine(25 / 10);   // prints 2
+            Console.WriteLine(59 / 10);
+        }
     }
 }
