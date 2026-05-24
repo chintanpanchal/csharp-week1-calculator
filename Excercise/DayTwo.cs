@@ -7,11 +7,12 @@ namespace Week1Calculator
         {
             Console.WriteLine("Please enter your name:");
             string? userInput = Console.ReadLine();
-            string Message = string.Empty;
-            if(string.IsNullOrWhiteSpace(userInput))
-                Message = "please enter the name.";
-            Message = $"Hello {userInput}, Welcome to c#";
-            Console.WriteLine(Message);
+            string message;
+            if (string.IsNullOrWhiteSpace(userInput))
+                message = "please enter the name.";
+            else
+                message = $"Hello {userInput}, Welcome to c#";
+            Console.WriteLine(message);
         }
     }
 }

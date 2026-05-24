@@ -6,7 +6,8 @@ namespace Week1Calculator
     {
         static void Main(string[] args)
         {
-            //DayOne.PracticeVariable();
+            DayOne.PracticeVariable();
+            DayOne.PracticeDataTypes();
             DayTwo.GreetUser();
         }
     }

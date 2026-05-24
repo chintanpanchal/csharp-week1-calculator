@@ -8,14 +8,24 @@ namespace Week1Calculator
         {
             string name = "Chintan PANCHAL";
             int age = 25;
-            double height = 1.75957955477D;
-            float weight = 1.5959556489F;
+            double height = 1.75D;
+            float weight = 70.59F;
             bool isLearningCSharp = true;
-            Console.WriteLine(name);
-            Console.WriteLine(age);
+            Console.WriteLine($"Name: {name}");
+            Console.WriteLine($"Age: {age}");
             Console.WriteLine(height);
             Console.WriteLine(weight);
             Console.WriteLine(isLearningCSharp);
+        }
+
+        public static void PracticeDataTypes()
+        {
+            Console.WriteLine("My name is John");
+            Console.WriteLine("I am learning C#");
+            Console.WriteLine(10 + 5);
+            Console.WriteLine(10 * 3);
+            Console.WriteLine(100 / 4);
+            Console.WriteLine("The result of 7 * 8 is: " + (7 * 8));
         }
     }
 }
