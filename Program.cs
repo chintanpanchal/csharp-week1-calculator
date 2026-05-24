@@ -10,8 +10,8 @@ namespace Week1Calculator
             // DayOne.PracticeDataTypes();
             // DayTwo.GreetUser();
             // DayOne.DummyData();
-            DayThree.GradeCalculatorSwitch();
-
+            //DayThree.GradeCalculatorSwitch();
+            DayFour.ExcerciseFour();
         }
     }
 }
