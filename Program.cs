@@ -13,7 +13,8 @@ namespace Week1Calculator
             // DayThree.GradeCalculatorSwitch();
             // DayFour.ExcerciseFour();
             // DayFive.FizzBuzz();
-            DayFive.GuessingGame();
+            // DayFive.GuessingGame();
+            Calculator.Run();
         }
     }
 }
